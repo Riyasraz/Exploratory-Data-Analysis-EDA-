@@ -3,5 +3,8 @@ This project showcases an Exploratory Data Analysis (EDA) performed to analyze, 
 
 # Steps: #
 ## Step 1: Importing Required Modules ##
-Imported essential libraries: numpy, pandas, seaborn, and matplotlib.
+* Imported essential libraries: 'numpy', 'pandas', 'seaborn', and 'matplotlib'.
 
+# Step 2: Data Preprocessing #
+* Transformed raw data into a clean dataset.
+* Corrected the 'Height' column by replacing random values with accurate ones. 
