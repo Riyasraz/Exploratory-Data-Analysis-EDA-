@@ -18,3 +18,18 @@ This project showcases an Exploratory Data Analysis (EDA) performed to analyze, 
 * Segregated employees based on different positions.
 * Illustrated the distribution using a count plot.
   
+# Step 5: Age Group Analysis #
+* Identified the predominant age group among employees.
+* Visualized the age distribution with a count plot for clearer insights.
+
+# Step 6: Salary Analysis #
+* Determined the team and position with the highest salary spending.
+* Plotted the data using a box plot to illustrate the relationship between team, position, and salary.
+
+# Step 7: Correlation Between Age and Salary #
+* Examined the correlation between employees' age and salary.
+* Used a heatmap for a two-dimensional representation of the data.
+
+# Conclusion #
+The analysis provided clear insights into the dataset, covering data preprocessing, team distribution, salary expenditures across different positions, age group identification, salary analysis, and the correlation between age and salary. The entire process was supported by clear visualizations, offering a comprehensive overview of the data for ABC Company.
+
